@@ -68,7 +68,7 @@ and service operations with real Pakistani market data.
 
 ## Setup
 ```bash
-psql -U postgres -f schema.sql
+psql -U postgres -f car_showroom_schema.sql
 ```
 
 ---
